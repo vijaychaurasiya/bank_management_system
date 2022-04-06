@@ -45,7 +45,7 @@ Online Banking Application
 
 <h3>Getting Started</h3>
 <p>1. Start with this Github Repository</p>
-<p>2. Git clone to directory of your choice $ git clone https://github.com/Jayant-Chaurasiya/PO_Banking.git</p>
+<p>2. Git clone to directory of your choice $ git clone https://github.com/vijaychaurasiya/bank_management_system.git</p>
 
 <p>3. Run the project on Eclipse</p>
 
